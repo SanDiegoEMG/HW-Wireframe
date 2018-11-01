@@ -1,0 +1,74 @@
+<link rel="stylesheet" type="text/css" href="style2.css">
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    background:#777;
+    width: '960px';
+    font-size: '18px';
+    text-align: center;
+    color: #777;
+}
+
+#header {
+    background: #ebebeb;
+    margin: 20px 80px;
+    padding: 20px;
+}
+
+#nav {
+    background: #ebebeb;
+    margin: 20px 80px;
+    padding: 20px;
+}
+
+.section {
+    background: #ebebeb;
+    width: 45%;
+    margin: 20px 20px 20px 80px;
+    padding: 20px 0 20px;
+    float: left;
+}
+
+#nestedboxes {
+    background-color: #777;
+    color: #ebebeb;
+    height: 150px;
+    margin: 0 15px 0 15px;
+    }   
+
+#art{
+    padding: 20px 0 0 0;
+}
+
+#hhh {
+    background-color: #ebebeb;
+    color: #777;
+    margin: 10pt 20pt 10pt 20pt;
+    padding: 5pt 0 5pt 0;
+}
+
+#p {
+    background-color: #ebebeb;
+    color: #777;
+    margin: 0 20pt 0 20pt;
+    padding: 5pt 0 5pt 0;
+}
+
+#aside {
+    background: #ebebeb;
+    width: 33%;
+    margin: 20px 80px 20px 0;
+    padding: 20px 0 170px 0;
+    float: left;
+}
+
+#foot {
+    clear: both;
+    background: #ebebeb;
+    margin: 20px 80px;
+    padding: 20px;
+}
