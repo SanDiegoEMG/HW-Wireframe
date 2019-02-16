@@ -1,4 +1,5 @@
 # HW-Wireframe
 Nov1 Bootcamp Homework - Building a Wireframe 
 
-Understanding how spacing and layout work. 
+Exploring how spacing and layout work, and how index.html
+connects with style.css.
